@@ -1,0 +1,6 @@
+{
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+        
+    ],
+    "dotnet.defaultSolution": "HelloWorldApplication.sln"
+}
